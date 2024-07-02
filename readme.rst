@@ -4,7 +4,7 @@ Anggota Kelompok:
 3. Wahyuni Nareswari   (12221915)
 4. Zehra AlFarizi      (12221918)
 
-nama database "apps_siswa" dengan tabel "tbl_siswa"
+Nama database "apps_siswa" dengan tabel "tbl_siswa"
 
 ###################
 What is CodeIgniter
