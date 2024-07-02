@@ -1,3 +1,11 @@
+Anggota Kelompok:
+1. Putri Amanda Teapon (12221924)
+2. Rizkia Ayu Meisya P (12221912)
+3. Wahyuni Nareswari   (12221915)
+4. Zehra AlFarizi      (12221918)
+
+nama database "apps_siswa" dengan tabel "tbl_siswa"
+
 ###################
 What is CodeIgniter
 ###################
