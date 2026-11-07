@@ -1,17 +1,17 @@
-# Student Management System (CodeIgniter 3)
+Student Management System (CodeIgniter 3)
 
 A simple web-based student management application (CRUD) developed using CodeIgniter 3, AdminLTE, and MySQL for Web Programming coursework.
 
-## 🛠️ Tech Stack
-- **Framework:** CodeIgniter 3 (PHP)
-- **Database:** MySQL
-- **Frontend & UI:** AdminLTE 3, Bootstrap, JavaScript
+🛠️ Tech Stack
+- Framework: CodeIgniter 3 (PHP)
+- Database: MySQL
+- Frontend & UI: AdminLTE 3, Bootstrap, JavaScript
 
-## ✨ Features
+✨ Features
 - Student Data Management (Create, Read, Update, Delete)
 - Print Student Data Report
 
-## 👥 Team Members
+👥 Team Members
 1. Putri Amanda Teapon (12221924)
 2. Rizkia Ayu Meisya Putri (12221912)
 3. Wahyuni Nareswari (12221915)
